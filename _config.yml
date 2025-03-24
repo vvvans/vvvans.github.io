@@ -5,8 +5,10 @@ description: 4 year data scientist and AI researcher passionate about turning da
   Currently pursuing my Ph.D. in Data Science and Artificial Intelligence at Texas A&M University, I’ve contributed to impactful projects with organizations like FEMA, the World Bank, and Apple Inc. My goal is to harness the power of data to enhance urban resilience, improve decision-making, and positively impact society.
   <br><br>
   <a href="https://www.linkedin.com/in/cy-liu/">View My LinkedIn Profile</a> 
-  
+<br><br>
 remote_theme: pages-themes/minimal@v0.2.0
+<br><br>
 plugins:
 - jekyll-remote-theme
+<br><br>
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
