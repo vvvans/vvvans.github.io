@@ -10,8 +10,8 @@
 <img src="images/GAT.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Human-centric characterization of life activity flood exposure shifts focus from places to people](./Cities)
+<img src="images/Cities.png?raw=true"/>
 
 
 
