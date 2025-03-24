@@ -6,7 +6,7 @@ description: 4 year data scientist and AI researcher passionate about turning da
   <br><br>
   <a href="https://www.linkedin.com/in/cy-liu/">View My LinkedIn Profile</a> 
 
-remote_theme: pages-themes/minimal@v0.2.0
+# remote_theme: pages-themes/minimal@v0.2.0
 
 plugins:
 - jekyll-remote-theme
