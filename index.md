@@ -6,7 +6,7 @@
 <img src="images/msaFloodPrediction.png?raw=true"/>
 
 ---
-[Graph attention networks unveil determinants of intra-and inter-city health disparity](/pdf/sample_presentation.pdf)
+[Graph attention networks unveil determinants of intra-and inter-city health disparity](/GAT)
 <img src="images/GAT.png?raw=true"/>
 
 ---
