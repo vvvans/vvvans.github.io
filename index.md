@@ -3,7 +3,7 @@
 ---
 
 [Floodgenome: Interpretable machine learning for decoding features shaping property flood risk predisposition in cities](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/msaFloodPrediction.png?raw=true"/>
 
 ---
 [Graph attention networks unveil determinants of intra-and inter-city health disparity](/pdf/sample_presentation.pdf)
