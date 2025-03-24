@@ -1,14 +1,12 @@
-## Portfolio
+## Projects
 
 ---
 
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
+[Floodgenome: Interpretable machine learning for decoding features shaping property flood risk predisposition in cities](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Graph attention networks unveil determinants of intra-and inter-city health disparity](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
