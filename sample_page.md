@@ -1,31 +1,24 @@
-## This can be your internal website page / project page
+## FloodGenome: Interpretable Machine Learning for Decoding Features Shaping Property Flood Risk Predisposition in Cities
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** FloodGenome is an innovative interpretable machine learning model developed to assess the inherent susceptibility of urban areas to property flood damages, independent of specific flooding events. By analyzing hydrological, topographic, and built-environment features, FloodGenome classifies urban areas into distinct flood risk levels using random forest and k-means clustering methods. Leveraging extensive flood claims data from the National Flood Insurance Program (2003-2023), the model identifies critical flood risk factors such as elevation, surface imperviousness, and proximity to drainage systems. Its high accuracy and robust transferability across multiple metropolitan areas make FloodGenome a powerful tool for urban planners and policymakers, providing actionable insights to proactively manage urban flood risk and inform sustainable urban development strategies.
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+### 1. Flood risk level by k-means
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 2. Assess assumptions on which statistical inference will be based
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 3. Support the selection of appropriate statistical tools and techniques
+First, K-means is applied to all hydrological, topographic, and built-environment features, the optimal number of clusters was identified using the elbow method, balancing cluster separation and interpretability. Then, each CBG was classified into four distinct risk categories according to similarities in these damage-related metrics. The four risk categories (low, medium, high, and extreme) is deternming by mean building damage ratio multiplied by total number of damaged buildings for each group. This clustering approach effectively reveals areas with comparable flood risk characteristics, enabling targeted and strategic flood risk management.
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-### 4. Provide a basis for further data collection through surveys or experiments
+### 3. Assess model transferability
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+### 4. Key Features Among Cities Shaping Property Flood Risk Disposition
+
+
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+### 5. Specifying flood risk disposition at finer resolution
+
+
+
