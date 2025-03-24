@@ -7,7 +7,7 @@
 
 ---
 [Graph attention networks unveil determinants of intra-and inter-city health disparity](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/figure_1.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
