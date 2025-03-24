@@ -2,7 +2,7 @@
 
 ---
 
-[Floodgenome: Interpretable machine learning for decoding features shaping property flood risk predisposition in cities](/sample_page)
+[Floodgenome: Interpretable machine learning for decoding features shaping property flood risk predisposition in cities](/FloodGenome)
 <img src="images/msaFloodPrediction.png?raw=true"/>
 
 ---
