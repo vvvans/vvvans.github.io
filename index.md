@@ -10,8 +10,8 @@
 <img src="images/GAT.png?raw=true"/>
 
 ---
-[Human-centric characterization of life activity flood exposure shifts focus from places to people](./Cities)
-<img src="images/Cities.png?raw=true"/>
+[Leveraging heterogeneous data and machine learning for mapping connectivity and infrastructure provision in Amazon](./Cities)
+<img src="images/Amazon_figure1.png?raw=true"/>
 
 
 
