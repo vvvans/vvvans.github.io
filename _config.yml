@@ -1,19 +1,19 @@
 title: Chenyue Liu
 logo: "/images/my_photo.png"
 description: >-
-  <b>Data Scientist & AI Researcher | Specializing in Urban Resilience & Spatial Intelligence</b>
-  <br><br>
-  5+ years of experience in architecting data-driven solutions for complex infrastructure and disaster management challenges. My expertise lies at the intersection of <b>Machine Learning, Graph Neural Networks (GNN), and Spatial Analytics</b>, with a proven track record of translating advanced research into actionable insights for high-stakes decision-making.
-  <br><br>
-  Currently at <b>Resilitix</b>, I lead technical initiatives and spatial modeling for premier global organizations, including <b>FEMA, the World Bank, and Apple Inc.</b> I specialize in developing interpretable AI frameworks to assess critical lifelines and enhance societal resilience against large-scale disruptions.
-  <br><br>
-  <b>Core Technical Stack:</b> Python (Scikit-learn, PyTorch, PyG), R, SQL, GIS (ArcGIS/QGIS), H3 Spatial Indexing, and Explainable AI (XAI).
-  <br><br>
-  <a href="https://www.linkedin.com/in/cy-liu/">View My LinkedIn Profile</a> 
+  <div style="max-height: 50vh; overflow-y: auto; padding-right: 10px; font-size: 0.95em; line-height: 1.5;">
+    <b>Data Scientist & AI Researcher | Specializing in Urban Resilience & Spatial Intelligence</b>
+    <br><br>
+    5+ years of experience in architecting data-driven solutions for complex infrastructure and disaster management challenges. My expertise lies at the intersection of <b>Machine Learning, Graph Neural Networks (GNN), and Spatial Analytics</b>, with a proven track record of translating advanced research into actionable insights for high-stakes decision-making.
+    <br><br>
+    Currently at <b>Resilitix</b>, I lead technical initiatives and spatial modeling for premier global organizations, including <b>FEMA, the World Bank, and Apple Inc.</b> I specialize in developing interpretable AI frameworks to assess critical lifelines and enhance societal resilience against large-scale disruptions.
+    <br><br>
+    <b>Core Technical Stack:</b> Python (Scikit-learn, PyTorch, PyG), R, SQL, GIS (ArcGIS/QGIS), H3 Spatial Indexing, and Explainable AI (XAI).
+  </div>
+  <br>
+  <a href="https://www.linkedin.com/in/cy-liu/" style="display: inline-block; background: #0077b5; color: white; padding: 6px 12px; text-decoration: none; border-radius: 4px; font-weight: bold;">View My LinkedIn Profile</a>
 
 remote_theme: pages-themes/minimal@v0.2.0
 
 plugins:
 - jekyll-remote-theme
-sass:
-  style: :compressed
