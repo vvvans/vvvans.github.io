@@ -1,27 +1,19 @@
 title: Chenyue Liu
 logo: "/images/my_photo.png"
 description: >-
-  <div style="max-height: 50vh; overflow-y: auto; padding-right: 10px; font-size: 0.95em; line-height: 1.6;">
-    <b>Data Scientist & AI Researcher | Specialized in Spatial Intelligence & Urban Resilience</b>
+  <div style="max-height: 50vh; overflow-y: auto; padding-right: 10px; font-size: 0.95em; line-height: 1.5;">
+    <b>Data Scientist & AI Researcher | Specializing in Urban Resilience & Spatial Intelligence</b>
     <br><br>
-    Results-driven Data Scientist with 5+ years of experience in architecting AI-driven solutions for complex infrastructure and disaster management[cite: 1, 3, 5]. 
-    I specialize in bridging the gap between advanced spatial research and large-scale industrial applications.
+    5+ years of experience in architecting data-driven solutions for complex infrastructure and disaster management challenges. My expertise lies at the intersection of <b>Machine Learning, Graph Neural Networks (GNN), and Spatial Analytics</b>, with a proven track record of translating advanced research into actionable insights for high-stakes decision-making.
     <br><br>
-    <b>Key Highlights:</b>
-    <br>
-    • <b>Apple Inc. (Apple Maps):</b> Engineered spatial data pipelines for 25M+ global transit routes using MySQL[cite: 5, 8]. Automated ETL workflows that optimized human effort by 5 hours weekly.
-    <br>
-    • <b>Resilitix (Strategic Projects):</b> Technical lead for <b>FEMA</b> and <b>World Bank</b> initiatives, developing Graph Neural Network (GNN) frameworks to evaluate the resilience of critical societal lifelines.
-    <br>
-    • <b>Predictive Modeling:</b> Proven track record in boosting model accuracy (80% for customer classification) and optimizing marketing costs by 15% through robust statistical analysis[cite: 19, 20].
+    Currently at <b>Resilitix</b>, I lead technical initiatives and spatial modeling for premier global organizations, including <b>FEMA, the World Bank, and Apple Inc.</b> I specialize in developing interpretable AI frameworks to assess critical lifelines and enhance societal resilience against large-scale disruptions.
     <br><br>
-    <b>Core Technical Stack:</b>
-    <br>
-    • <b>Programming:</b> Python (PyTorch, PyG, Scikit-learn), R, SQL, MySQL[cite: 8, 21].
-    <br>
-    • <b>Analytics:</b> Spatial GIS, GNNs, Random Forest, Time Series (SARIMA), Survival Analysis[cite: 23, 44, 48].
-    <br>
-    • <b>Tools:</b> Tableau, ArcGIS/QGIS, H3 Spatial Indexing, Power BI[cite: 9, 22].
+    <b>Core Technical Stack:</b> Python (Scikit-learn, PyTorch, PyG), R, SQL, GIS (ArcGIS/QGIS), H3 Spatial Indexing, and Explainable AI (XAI).
   </div>
   <br>
-  <a href="https://www.linkedin.com/in/cy-liu/" style="display: inline-block; background: #0077b5; color: white; padding: 7px 15px; text-decoration: none; border-radius: 4px; font-weight: bold; font-size: 0.9em;">View My LinkedIn Profile</a>
+  <a href="https://www.linkedin.com/in/cy-liu/" style="display: inline-block; background: #0077b5; color: white; padding: 6px 12px; text-decoration: none; border-radius: 4px; font-weight: bold;">View My LinkedIn Profile</a>
+
+remote_theme: pages-themes/minimal@v0.2.0
+
+plugins:
+- jekyll-remote-theme
