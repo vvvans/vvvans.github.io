@@ -12,8 +12,6 @@ description: >-
   </div>
   <br>
   <a href="https://www.linkedin.com/in/cy-liu/" style="display: inline-block; background: #0077b5; color: white; padding: 6px 12px; text-decoration: none; border-radius: 4px; font-weight: bold;">View My LinkedIn Profile</a>
-  <br>
-  <a href="https://scholar.google.com/citations?user=L71ZW0AAAAAJ&hl=en&oi=ao" style="display: inline-block; background: #0077b5; color: white; padding: 6px 12px; text-decoration: none; border-radius: 4px; font-weight: bold;">Google Scholar</a>
 remote_theme: pages-themes/minimal@v0.2.0
 
 plugins:
