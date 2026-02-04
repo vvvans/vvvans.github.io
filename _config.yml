@@ -12,7 +12,7 @@ description: >-
   • <b>Machine Learning:</b> Graph ML, tree-based model, LLMs & Prompt Engineering.
   <br>
   • <b>Tools:</b> Tableau, ArcGIS/QGIS.
-  <br><br>
+  <br><br> 
   <a href="https://www.linkedin.com/in/cy-liu/" style="display: block; width: 100%; max-width: 180px; background: #0077b5; color: white; padding: 10px 0; text-decoration: none; border-radius: 4px; font-weight: bold; text-align: center; font-size: 0.9em;">View LinkedIn Profile</a>
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
