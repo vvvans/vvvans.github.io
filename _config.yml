@@ -2,7 +2,7 @@ title: Chenyue Liu
 logo: "/images/my_photo.png"
 description: >-
   <div style="max-height: 50vh; overflow-y: auto; padding-right: 10px; font-size: 0.95em; line-height: 1.5;">
-    <b>Data Scientist & AI Researcher | Specializing in Urban Resilience & Spatial Intelligence</b>
+    <b>Data Scientist & PhD | Specializing in Urban Resilience & Spatial Intelligence</b>
     <br><br>
     5+ years of experience in architecting data-driven solutions for complex infrastructure and disaster management challenges. My expertise lies at the intersection of <b>Machine Learning, Graph Neural Networks (GNN), and Spatial Analytics</b>, with a proven track record of translating advanced research into actionable insights for high-stakes decision-making.
     <br><br>
@@ -12,7 +12,7 @@ description: >-
   </div>
   <br>
   <a href="https://www.linkedin.com/in/cy-liu/" style="display: inline-block; background: #0077b5; color: white; padding: 6px 12px; text-decoration: none; border-radius: 4px; font-weight: bold;">View My LinkedIn Profile</a>
-
+  <a href="https://scholar.google.com/citations?user=L71ZW0AAAAAJ&hl=en&oi=ao" style="display: inline-block; background: #4285F4; color: white; padding: 6px 12px; text-decoration: none; border-radius: 4px; font-weight: bold; font-size: 0.85em;">Google Scholar</a>
 remote_theme: pages-themes/minimal@v0.2.0
 
 plugins:
