@@ -16,7 +16,7 @@ To identify underserved areas, the project employs advanced modeling techniques 
 * **K-means Clustering:** Used to categorize regions into distinct "Infrastructure Development Profiles," ranging from well-connected urban hubs to isolated remote communities.
 * **Interpretability(SHAP):** The study uses SHAP (SHapley Additive exPlanations) values to identify the primary drivers of infrastructure provision, such as proximity to major rivers or historical road development.
 
-<img src="images/Amazon_ipi.png?raw=true"/>
+<img src="images/ipi.png?raw=true"/>
 
 ### 3. Key Findings & Policy Impact
 
