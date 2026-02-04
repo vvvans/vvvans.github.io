@@ -1,6 +1,7 @@
 title: Chenyue Liu
 logo: "/images/my_photo.png" # your photo (or logo) here
-description: 5+ year data scientist and AI researcher passionate about turning data into meaningful solutions. I specialize in machine learning, spatial analytics, and data visualization, leveraging advanced methods like Random Forest, Graph Neural Networks, and interpretable AI to solve real-world challenges.
+description: >-
+  5+ year data scientist and AI researcher passionate about turning data into meaningful solutions. I specialize in machine learning, spatial analytics, and data visualization, leveraging advanced methods like Random Forest, Graph Neural Networks, and interpretable AI to solve real-world challenges.
   <br><br>
   Currently in Resilitix, I’ve contributed to impactful projects with organizations like FEMA, the World Bank, and Apple Inc. My goal is to harness the power of data to enhance urban resilience, improve decision-making, and positively impact society.
   <br><br>
@@ -10,5 +11,3 @@ remote_theme: pages-themes/minimal@v0.2.0
 
 plugins:
 - jekyll-remote-theme
-
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
