@@ -1,0 +1,22 @@
+---
+---
+@import "{{ site.theme }}";
+
+// 修复侧边栏无法滚动的问题
+header {
+  overflow-y: auto;        // 允许纵向滚动
+  max-height: 100vh;       // 限制最大高度为屏幕高度
+  padding-bottom: 50px;    // 底部留白，防止按钮被切断
+}
+
+// 修复文字和按钮重叠的问题
+header p, header a {
+  display: block;          // 强制块级显示，防止重叠
+  margin-bottom: 12px;     // 增加段落间距
+  line-height: 1.6;        // 优化阅读行高
+}
+
+// 隐藏你之前讨厌的那行小字
+.downloads {
+  display: none !important;
+}
