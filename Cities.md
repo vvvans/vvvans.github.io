@@ -1,14 +1,26 @@
-## Human-centric characterization of life activity flood exposure shifts focus from places to people
+## Leveraging heterogeneous data and machine learning for mapping connectivity and infrastructure provision in Amazon
 
-**Project description:** This study introduces a human-centric approach to assessing flood exposure by focusing on people’s daily life activities rather than traditional residential locations alone. Utilizing fine-resolution, anonymized smartphone data across 18 U.S. coastal cities, it quantifies flood exposure based on how much time people spend in flood-prone areas. The research identifies previously overlooked patterns, such as “latent flood exposure,” where individuals residing outside flood-hazard zones are exposed due to their daily activities, and “latent flood immunity,” where those living within flood zones experience unexpectedly low exposure. The results highlight significant disparities in flood exposure across different cities and urban structures, providing crucial insights to urban planners and policymakers for enhancing flood risk management strategies and improving community resilience.
+**Project description:** This study addresses the critical challenge of data scarcity in the Amazon region by developing a machine learning framework to map infrastructure provision and regional connectivity. By integrating heterogeneous datasets—including OpenStreetMap (OSM), human mobility data, and satellite imagery—the research provides a high-resolution assessment of how communities access essential services. The project utilizes H3 hexagonal hierarchical spatial indexing, K-Means, XGBoost, SHAP Analysis to identify "infrastructure-poor" areas and quantify the impact of seasonal connectivity disruptions, such as river level fluctuations.
 
-### 1. Activity-Based Flood Exposure Analysis
-PLAFE in each census block group (CBG) is calculated as the population-weighted proportion of individuals’ total daily activity time spent within designated flood hazard zones. In (a), the plot compares county-level PLAFE values (right axis) with the percentage of CBGs located in floodplains (left axis). (b) illustrates the linear correlation between these two variables, assessed using a two-sided statistical test. Counties are grouped into five categories (C1 to C5) based on similar levels of spatial flood hazard, segmented in 20% increments. The observed linear relationship suggests that counties with greater spatial flood hazard coverage tend to exhibit higher PLAFE, reflecting greater activity-based flood exposure. Notably, some counties with comparable flood hazard extents display divergent PLAFE values, indicating that factors such as urban form, built environment, and population mobility patterns may significantly influence exposure. A threshold of PLAFE > 10% is used to classify CBGs as having high activity-based flood exposure; otherwise, they are considered to have low exposure.
+### 1. Multi-Source Data Fusion & Spatial Indexing
+The framework utilizes a multi-layered approach to overcome the limitations of traditional census data in remote regions:
+* **H3 Spatial Indexing:** All data is standardized into a hexagonal grid system (H3) to ensure consistent spatial resolution across the vast Amazon basin.
+* **Infrastructure Indicators:** Using OSM data, the study maps the density and distribution of healthcare, education, and energy facilities.
+* **Connectivity Modeling:** The research models "Amazonian accessibility" by combining land-based road networks with riverine transport routes.
 
-<img src="images/Cities_figure1.png?raw=true"/>
+<img src="images/Amazon_figure1.png?raw=true"/>
 
-### 2. Identification of Latent Exposure and Immunity Patterns
-The second experiment analyzed spatial patterns to uncover two novel concepts: latent flood exposure—individuals who live outside flood hazard zones but spend significant time within them—and latent flood immunity—those who reside within flood zones but rarely spend time there. To support this, the study included (a) maps of flood hazard zones, (b) the corresponding PLAFE (Proportion of Life Activity in Flood Exposure), (c) the spatial distribution of latent flood exposure, and (d) the spatial distribution of latent flood immunity. These visualizations reveal a clear mismatch between where people live and where they are actually exposed to flood risk. The findings emphasize that relying solely on residential location can lead to both underestimation and overestimation of true flood exposure. Human mobility patterns are therefore crucial for accurately assessing urban flood vulnerability and should be integrated into future flood planning and policy-making.
+### 2. Machine Learning for Infrastructure Gap Analysis
+To identify underserved areas, the project employs advanced modeling techniques to predict infrastructure provision levels:
+* **Feature Engineering:** Socio-economic and environmental variables are extracted to train models that can estimate infrastructure availability in areas where ground-truth data is missing.
+* **K-means Clustering:** Used to categorize regions into distinct "Infrastructure Development Profiles," ranging from well-connected urban hubs to isolated remote communities.
+* **Interpretability(SHAP):** The study uses SHAP (SHapley Additive exPlanations) values to identify the primary drivers of infrastructure provision, such as proximity to major rivers or historical road development.
+<img src="images/Amazon_figure1.png?raw=true"/>
 
-<img src="images/Cities_figure2.png?raw=true"/>
+<img src="images/Amazon_ipi.png?raw=true"/>
+
+### 3. Key Findings & Policy Impact
+
+* **Connectivity Disparities:** Identified significant "connectivity deserts" where communities face extreme isolation.
+* **Strategic Planning:** The findings offer actionable insights for the World Bank and local governments to prioritize infrastructure investments that minimize environmental impact while maximizing social benefit.
 
