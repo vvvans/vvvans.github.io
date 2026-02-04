@@ -1,9 +1,13 @@
 title: Chenyue Liu
-logo: "/images/my_photo.png" # your photo (or logo) here
+logo: "/images/my_photo.png"
 description: >-
-  5+ year data scientist and AI researcher passionate about turning data into meaningful solutions. I specialize in machine learning, spatial analytics, and data visualization, leveraging advanced methods like Random Forest, Graph Neural Networks, and interpretable AI to solve real-world challenges.
+  <b>Data Scientist & AI Researcher | Specializing in Urban Resilience & Spatial Intelligence</b>
   <br><br>
-  Currently in Resilitix, I’ve contributed to impactful projects with organizations like FEMA, the World Bank, and Apple Inc. My goal is to harness the power of data to enhance urban resilience, improve decision-making, and positively impact society.
+  5+ years of experience in architecting data-driven solutions for complex infrastructure and disaster management challenges. My expertise lies at the intersection of <b>Machine Learning, Graph Neural Networks (GNN), and Spatial Analytics</b>, with a proven track record of translating advanced research into actionable insights for high-stakes decision-making.
+  <br><br>
+  Currently at <b>Resilitix</b>, I lead technical initiatives and spatial modeling for premier global organizations, including <b>FEMA, the World Bank, and Apple Inc.</b> I specialize in developing interpretable AI frameworks to assess critical lifelines and enhance societal resilience against large-scale disruptions.
+  <br><br>
+  <b>Core Technical Stack:</b> Python (Scikit-learn, PyTorch, PyG), R, SQL, GIS (ArcGIS/QGIS), H3 Spatial Indexing, and Explainable AI (XAI).
   <br><br>
   <a href="https://www.linkedin.com/in/cy-liu/">View My LinkedIn Profile</a> 
 
